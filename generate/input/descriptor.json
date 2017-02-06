@@ -2454,7 +2454,11 @@
       }
     },
     "time": {
-      "dupFunction": "git_time_dup"
+      "dupFunction": "git_time_dup",
+      "dependencies": [
+        "git2/sys/time.h"
+      ]
+
     },
     "trace": {
       "functions": {
