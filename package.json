@@ -1,7 +1,7 @@
 {
   "name": "@elasticprojects/nodegit",
   "description": "Node.js libgit2 asynchronous native bindings",
-  "version": "0.16.1",
+  "version": "0.16.2",
   "homepage": "http://nodegit.org",
   "keywords": [
     "libgit2",
